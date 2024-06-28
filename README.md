@@ -7,9 +7,14 @@
 
 
 **Paso 1: Instalar Java Development Kit (JDK)**
+
 **Paso 2: Configurar las variables de entorno**
+
 **Paso 3: Escribir y guardar el código Java**
+
 **Paso 4: Compilar el código Java**
+
 **Paso 5: Ejecutar el código Java**
+
 **Paso 6: Depurar y mejorar el código**
 
